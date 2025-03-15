@@ -24,10 +24,6 @@ I’m a data science student from India passionate about analytics, machine lear
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 </p>
 
-
-## Topics
-Finance NYSE ESG ROA Volatility PowerBI DataVisualization MachineLearning NetworkAnalysis
-
 ---
 
 ## Connect With Me
