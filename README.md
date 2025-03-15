@@ -24,31 +24,6 @@ I’m a data science student from India diving into analytics, machine learning,
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 </p>
 
----
-
-## Projects
-### Investment Arc: NYSE  
-- Simulated 400,000 NYSE investments over 10 years, analyzing ESG, ROA, and volatility.  
-- Built interactive dashboards with Power BI (Power Query, DAX).  
-- [Repo](#) *(link TBD)*
-
-### EduScore Insights  
-- Predicted student scores using ML models in Python (Scikit-learn).  
-- Explored trends in demographics and test prep impacts.  
-- [Repo](#) *(link TBD)*
-
-### CollabGraph Dynamics  
-- Analyzed classroom networks with NetworkX for learning insights.  
-- Visualized group interactions and performance links.  
-- [Repo](#) *(link TBD)*
-
----
-
-## Topics
-Finance NYSE ESG ROA Volatility PowerBI DataVisualization MachineLearning NetworkAnalysis
-
----
-
 ## Connect With Me
 <p>
   <a href="https://linkedin.com/in/kamaleshpantra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/></a>
