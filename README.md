@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-I’m a data science student from India diving into analytics, machine learning, and visualization. Currently, I’m working on stock market simulations with Power BI and sharpening my skills in Python and ML frameworks. I love turning raw data into actionable stories.
+I’m a data science student from India passionate about analytics, machine learning, and visualization. Currently, I’m working on stock market simulations using Power BI and honing my skills in Python and ML frameworks. I enjoy transforming raw data into actionable insights.
 
 ---
 
@@ -24,9 +24,18 @@ I’m a data science student from India diving into analytics, machine learning,
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 </p>
 
+
+## Topics
+Finance NYSE ESG ROA Volatility PowerBI DataVisualization MachineLearning NetworkAnalysis
+
+---
+
 ## Connect With Me
 <p>
   <a href="https://linkedin.com/in/kamaleshpantra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/></a>
   <a href="https://instagram.com/kamalesh_pantra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/></a>
   <a href="https://github.com/kamaleshpantra" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+</p>
+<p>
+  <a href="http://europa.eu/europass/eportfolio/api/eprofile/shared-profile/kamalesh-pantra/e5d18ee5-da11-4ad2-bb4f-890d59ff8aa6?view=html" target="_blank">View my Europass Portfolio</a>
 </p>
