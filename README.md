@@ -20,7 +20,7 @@ I’m a data science student from India with a passion for uncovering insights t
 - **Extras**: Git · Oracle · Excel  
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
 </p>
