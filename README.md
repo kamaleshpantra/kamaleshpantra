@@ -4,7 +4,7 @@
   <p>Crafting insights from data with analytics & visualization</p>
   <a href="mailto:kamaleshlmv@gmail.com"><img src="https://img.shields.io/badge/Email-kamaleshlmv@gmail.com-blue?style=flat-square&logo=gmail" alt="email"></a>
   <a href="https://github.com/kamaleshpantra"><img src="https://img.shields.io/badge/GitHub-kamaleshpantra-black?style=flat-square&logo=github" alt="github"></a>
-  <a href="https://linkedin.com/in/kamaleshpantra"><img src="https://img.shields.io/badge/LinkedIn-kamaleshpantra-blue?style=flat-square&logo=linkedin" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/kamalesh-pantra-4544a5255/"><img src="https://img.shields.io/badge/LinkedIn-kamaleshpantra-blue?style=flat-square&logo=linkedin" alt="linkedin"></a>
 </div>
 
 ---
