@@ -16,7 +16,7 @@ I’m a data science student from India with a passion for uncovering insights t
 
 ## Skills
 - **Programming**: Python · SQL · C/C++  
-- **Data Tools**: Power BI · Pandas · Scikit-learn · NetworkX  
+- **Data Tools**: Power BI · Pandas · Scikit-learn · NetworkX  . PyTorch
 - **Extras**: Git · Oracle · Excel  
 <p align="center">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
