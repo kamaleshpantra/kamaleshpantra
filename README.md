@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Kamalesh Pantra 👋</h1>
 
 <p align="center">
@@ -230,4 +229,3 @@ If you're working on similar problems, feel free to connect.
 <p align="center">
 Thanks for visiting! 🚀
 </p>
-```
