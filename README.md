@@ -3,7 +3,7 @@
 <p align="center">
 <b>Integrated M.Sc. Data Science Student</b> @ PSG College of Technology (Graduating 2027)
 <br>
-Building enterprise AI systems using <b>LLMs</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Knowledge Graphs</b>, and scalable backend engineering.
+AI/ML enthusiast building machine learning, deep learning, RAG, and data-driven systems.
 </p>
 
 <p align="center">
@@ -16,115 +16,116 @@ Building enterprise AI systems using <b>LLMs</b>, <b>Retrieval-Augmented Generat
 
 # About Me
 
-I enjoy building AI systems that solve real engineering problems—not just machine learning models.
+I'm an Integrated M.Sc. Data Science student at **PSG College of Technology**, interested in building practical AI/ML systems and solving real-world engineering problems.
 
-My interests lie at the intersection of
+My interests span:
 
-- Retrieval-Augmented Generation (RAG)
-- Knowledge Graphs & GraphRAG
-- Enterprise AI
-- AI Agents
-- Information Retrieval
-- Backend Engineering
+* Machine Learning
+* Deep Learning
+* Retrieval-Augmented Generation (RAG)
+* Natural Language Processing
+* Information Retrieval
+* Time Series Forecasting
+* Recommendation Systems
+* AI/ML Engineering
 
-Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, where I automated software validation workflows for IV Pump systems following IEC 62304 medical software practices.
-
-I'm currently researching intelligent enterprise knowledge retrieval using **GraphRAG**, hybrid retrieval techniques, and knowledge graphs.
+Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, where I developed Python-based automation and validation tools for safety-critical medical software and analyzed 5,000+ diagnostic logs, reducing manual triage effort by 60%.
 
 ---
 
 # Current Focus
 
-- Enterprise Knowledge Management
-- Retrieval-Augmented Generation (RAG)
-- GraphRAG
-- Knowledge Graphs
-- Semantic Search
-- AI Agents
-- Production AI Systems
-- LLM Evaluation
-- Backend Systems for AI
+* Machine Learning & Deep Learning
+* Retrieval-Augmented Generation (RAG)
+* Information Retrieval
+* LLM Evaluation
+* Time Series Forecasting
+* Recommendation Systems
+* AI/ML Engineering
+* Model Evaluation & Experimentation
 
 ---
 
 # Featured Projects
 
-## 🧠 Enterprise Knowledge Platform *(Current)*
+## 🔎 Multihop RAG Evaluation
 
-Building an enterprise knowledge system that transforms organizational knowledge into an AI-ready graph for intelligent retrieval.
+A hybrid multi-hop Retrieval-Augmented Generation pipeline evaluated on the **HotpotQA** dataset.
 
 **Highlights**
 
-- GraphRAG architecture
-- Knowledge Graph construction
-- Hybrid retrieval
-- Semantic search
-- Metadata-aware retrieval
-- Enterprise document understanding
+* Hybrid retrieval using dense and lexical search
+* FAISS dense retrieval
+* BM25 lexical retrieval
+* Reciprocal Rank Fusion (RRF)
+* Cross-encoder reranking
+* Query expansion and retrieval evaluation
+* Local and cloud-based LLM inference
+
+Achieved **79.32% Recall@10**, **44% Exact Match**, and **0.5065 F1** in the evaluation pipeline.
 
 **Tech**
 
-`Python` `Neo4j` `LangChain` `OpenAI` `FastAPI`
-`FAISS` `Docker`
+`Python` `FAISS` `BM25` `Sentence Transformers`
+`Cross-Encoder` `RRF` `Ollama` `RAG` `Streamlit`
 
 ---
 
 ## 📈 StockPulse
 
-Predicting stock movement by combining financial time-series data with Reddit sentiment.
+A multimodal stock forecasting system combining historical market data with Reddit sentiment.
 
 **Highlights**
 
-- LSTM forecasting
-- Multi-source data fusion
-- Financial feature engineering
-- Time-series prediction
-- NLP-based sentiment analysis
+* LSTM-based time-series forecasting
+* Sequential feature engineering
+* Historical stock-price analysis
+* Reddit sentiment analysis using VADER
+* Financial data and social-media signal fusion
+* Interactive model visualization and inference
 
 **Tech**
 
-`Python`
-`PyTorch`
-`LSTM`
-`Pandas`
-`Scikit-learn`
+`Python` `TensorFlow` `LSTM` `Pandas`
+`VADER` `PRAW` `Streamlit` `Docker`
 
 ---
 
-## 🌐 StrangeStreet
+## 🏥 Health Insurance Premium Prediction
 
-Anonymous social platform with intelligent content ranking.
+An end-to-end machine learning system for predicting health insurance premiums.
 
 **Highlights**
 
-- UCB1 Multi-Armed Bandit ranking
-- Semantic similarity using SBERT
-- Secure messaging
-- Backend-first architecture
+* Feature engineering and preprocessing
+* Cross-validation
+* Hyperparameter optimization using RandomizedSearchCV
+* XGBoost regression
+* Real-time prediction through Streamlit
+
+Achieved an **R² score of 0.9938** using the optimized XGBoost model.
 
 **Tech**
 
-`Python`
-`SBERT`
-`PostgreSQL`
-`FastAPI`
+`Python` `Pandas` `Scikit-learn`
+`XGBoost` `RandomizedSearchCV` `Streamlit`
 
 ---
 
 # Research
 
-## GraphRAG for Enterprise Knowledge Management *(Ongoing)*
+## Predict, Verify, Recommend
 
-Exploring how Knowledge Graphs can improve Retrieval-Augmented Generation for enterprise-scale document retrieval.
+**A Verification-Aware Sequential Recommendation Framework**
 
-Current research areas include
+Currently researching a verification-aware recommendation architecture that combines a **SASRec backbone, learned safety verifier, and MLP transition model** to identify anomalous latent user states before recommendation.
 
-- GraphRAG
-- Hybrid Search
-- Metadata-aware Retrieval
-- Knowledge Graph Construction
-- Retrieval Evaluation
-- Agentic Retrieval Pipelines
+**Research Highlights**
+
+* Reproduced SASRec benchmarks on MovieLens-1M within 1%
+* HR@10: **0.8168** vs. **0.8245** benchmark
+* Bootstrap significance testing
+* Zero observed accuracy loss while flagging **37% of candidates** as anomalous
 
 ---
 
@@ -133,99 +134,89 @@ Current research areas include
 ## ICU Medical
 
 **R&D Embedded Software Intern**
+June 2025 – November 2025
 
-- Automated software validation workflows for IV Pump software.
-- Developed Python-based tools to improve testing efficiency.
-- Worked within IEC 62304 compliant medical software development processes.
-- Collaborated with firmware and software engineering teams.
+* Developed Python/Pandas scripts to analyze **5,000+ pytest diagnostic logs**, identifying recurring test-failure patterns and reducing manual triage effort by **60%**.
+* Developed automated Python/pytest validation suites for safety-critical software modules.
+* Maintained audit-ready **IEC 62304** compliance documentation and structured validation reports.
+* Collaborated with engineering teams on software validation and quality processes.
 
 ---
 
-## Previous Experience
+## Learner Circle
 
-Worked on machine learning systems involving recommendation models and explainable AI using ensemble learning techniques.
+**Tech Intern**
+May 2024 – June 2024
+
+* Performed exploratory data analysis and statistical modeling on **500+ student records**.
+* Developed an interpretable ML pipeline using **Random Forest, XGBoost, and SHAP**.
+* Reduced misclassification by **23%** through model evaluation, ablation studies, and error analysis.
 
 ---
 
 # Technical Skills
 
-### Languages
+### Programming
 
-- Python
-- SQL
-- C++
-
-### AI / LLM
-
-- Retrieval-Augmented Generation (RAG)
-- GraphRAG
-- LangChain
-- Hugging Face Transformers
-- OpenAI API
-- Prompt Engineering
-- Embeddings
-- Semantic Search
+`Python` `SQL` `C++`
 
 ### Machine Learning
 
-- PyTorch
-- Scikit-learn
-- XGBoost
-- SHAP
-- LSTM
+`Scikit-learn` `XGBoost` `NumPy` `Pandas` `PySpark` `Statistics`
 
-### Databases
+### Deep Learning & GenAI
 
-- PostgreSQL
-- Neo4j
-- FAISS
-- ChromaDB
+`PyTorch` `Hugging Face` `LangChain` `RAG`
 
-### Backend
+### NLP & Information Retrieval
 
-- FastAPI
-- Flask
-- REST APIs
+`Sentence Transformers` `BM25` `FAISS` `Cross-Encoder` `Embeddings`
 
-### Tools
+### Time Series
 
-- Git
-- GitHub
-- Docker
-- Postman
-- Linux
+`LSTM` `Time Series Forecasting` `Sequential Modeling`
+
+### Backend & Deployment
+
+`FastAPI` `Streamlit` `Docker` `PostgreSQL`
+
+### Developer Tools
+
+`Git` `GitHub`
 
 ---
 
 # What I'm Learning
 
-I'm currently exploring
+Currently exploring:
 
-- Agentic AI
-- Multi-Agent Systems
-- Knowledge Graph Reasoning
-- Enterprise Search
-- LLM Evaluation
-- Advanced Retrieval Systems
-- Production AI Infrastructure
+* Advanced RAG architectures
+* LLM evaluation
+* Information retrieval
+* Deep learning
+* Recommendation systems
+* Time-series modeling
+* Production ML systems
+* AI/ML engineering
 
 ---
 
 # Open Source & Collaboration
 
-I'm interested in collaborating on projects related to
+I'm interested in collaborating on projects involving:
 
-- Enterprise AI
-- LLM Applications
-- Knowledge Graphs
-- GraphRAG
-- AI Infrastructure
-- Backend Engineering
+* Machine Learning
+* Deep Learning
+* RAG & LLM Applications
+* Information Retrieval
+* Recommendation Systems
+* AI/ML Engineering
+* Backend Systems for AI
 
-If you're working on similar problems, feel free to connect.
+If you're working on interesting problems in these areas, feel free to connect.
 
 ---
 
 <p align="center">
-Thanks for visiting! 🚀
+<b>Thanks for visiting! 🚀</b>
 </p>
