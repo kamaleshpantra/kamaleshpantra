@@ -1,18 +1,231 @@
-# 💫 About Me:
-<h1 align="center">Hi, I'm Kamalesh Pantra 👋</h1><br><br><p align="center"><br><b>Integrated M.Sc. Data Science Student</b> @ PSG College of Technology (Graduating 2027)<br><br><br>AI/ML enthusiast building machine learning, deep learning, RAG, and data-driven systems.<br></p><br><br><p align="center"><br><a href="mailto:kamaleshlmv@gmail.com">Email</a> •<br><a href="https://www.linkedin.com/in/kamalesh-pantra-4544a5255/">LinkedIn</a> •<br><a href="https://github.com/kamaleshpantra">GitHub</a><br></p><br><br>---<br><br># About Me<br><br>I'm an Integrated M.Sc. Data Science student at **PSG College of Technology**, interested in building practical AI/ML systems and solving real-world engineering problems.<br><br>My interests span:<br><br>* Machine Learning<br>* Deep Learning<br>* Retrieval-Augmented Generation (RAG)<br>* Natural Language Processing<br>* Information Retrieval<br>* Time Series Forecasting<br>* Recommendation Systems<br>* AI/ML Engineering<br><br>Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, where I developed Python-based automation and validation tools for safety-critical medical software and analyzed 5,000+ diagnostic logs, reducing manual triage effort by 60%.<br><br>---<br><br># Current Focus<br><br>* Machine Learning & Deep Learning<br>* Retrieval-Augmented Generation (RAG)<br>* Information Retrieval<br>* LLM Evaluation<br>* Time Series Forecasting<br>* Recommendation Systems<br>* AI/ML Engineering<br>* Model Evaluation & Experimentation<br><br>---<br><br># Featured Projects<br><br>## 🔎 Multihop RAG Evaluation<br><br>A hybrid multi-hop Retrieval-Augmented Generation pipeline evaluated on the **HotpotQA** dataset.<br><br>**Highlights**<br><br>* Hybrid retrieval using dense and lexical search<br>* FAISS dense retrieval<br>* BM25 lexical retrieval<br>* Reciprocal Rank Fusion (RRF)<br>* Cross-encoder reranking<br>* Query expansion and retrieval evaluation<br>* Local and cloud-based LLM inference<br><br>Achieved **79.32% Recall@10**, **44% Exact Match**, and **0.5065 F1** in the evaluation pipeline.<br><br>**Tech**<br><br>`Python` `FAISS` `BM25` `Sentence Transformers`<br>`Cross-Encoder` `RRF` `Ollama` `RAG` `Streamlit`<br><br>---<br><br>## 📈 StockPulse<br><br>A multimodal stock forecasting system combining historical market data with Reddit sentiment.<br><br>**Highlights**<br><br>* LSTM-based time-series forecasting<br>* Sequential feature engineering<br>* Historical stock-price analysis<br>* Reddit sentiment analysis using VADER<br>* Financial data and social-media signal fusion<br>* Interactive model visualization and inference<br><br>**Tech**<br><br>`Python` `TensorFlow` `LSTM` `Pandas`<br>`VADER` `PRAW` `Streamlit` `Docker`<br><br>---<br><br>## 🏥 Health Insurance Premium Prediction<br><br>An end-to-end machine learning system for predicting health insurance premiums.<br><br>**Highlights**<br><br>* Feature engineering and preprocessing<br>* Cross-validation<br>* Hyperparameter optimization using RandomizedSearchCV<br>* XGBoost regression<br>* Real-time prediction through Streamlit<br><br>Achieved an **R² score of 0.9938** using the optimized XGBoost model.<br><br>**Tech**<br><br>`Python` `Pandas` `Scikit-learn`<br>`XGBoost` `RandomizedSearchCV` `Streamlit`<br><br>---<br><br># Research<br><br>## Predict, Verify, Recommend<br><br>**A Verification-Aware Sequential Recommendation Framework**<br><br>Currently researching a verification-aware recommendation architecture that combines a **SASRec backbone, learned safety verifier, and MLP transition model** to identify anomalous latent user states before recommendation.<br><br>**Research Highlights**<br><br>* Reproduced SASRec benchmarks on MovieLens-1M within 1%<br>* HR@10: **0.8168** vs. **0.8245** benchmark<br>* Bootstrap significance testing<br>* Zero observed accuracy loss while flagging **37% of candidates** as anomalous<br><br>---<br><br># Experience<br><br>## ICU Medical<br><br>**R&D Embedded Software Intern**<br>June 2025 – November 2025<br><br>* Developed Python/Pandas scripts to analyze **5,000+ pytest diagnostic logs**, identifying recurring test-failure patterns and reducing manual triage effort by **60%**.<br>* Developed automated Python/pytest validation suites for safety-critical software modules.<br>* Maintained audit-ready **IEC 62304** compliance documentation and structured validation reports.<br>* Collaborated with engineering teams on software validation and quality processes.<br><br>---<br><br>## Learner Circle<br><br>**Tech Intern**<br>May 2024 – June 2024<br><br>* Performed exploratory data analysis and statistical modeling on **500+ student records**.<br>* Developed an interpretable ML pipeline using **Random Forest, XGBoost, and SHAP**.<br>* Reduced misclassification by **23%** through model evaluation, ablation studies, and error analysis.<br><br>---<br><br># Technical Skills<br><br>### Programming<br><br>`Python` `SQL` `C++`<br><br>### Machine Learning<br><br>`Scikit-learn` `XGBoost` `NumPy` `Pandas` `PySpark` `Statistics`<br><br>### Deep Learning & GenAI<br><br>`PyTorch` `Hugging Face` `LangChain` `RAG`<br><br>### NLP & Information Retrieval<br><br>`Sentence Transformers` `BM25` `FAISS` `Cross-Encoder` `Embeddings`<br><br>### Time Series<br><br>`LSTM` `Time Series Forecasting` `Sequential Modeling`<br><br>### Backend & Deployment<br><br>`FastAPI` `Streamlit` `Docker` `PostgreSQL`<br><br>### Developer Tools<br><br>`Git` `GitHub`<br><br>---<br><br># What I'm Learning<br><br>Currently exploring:<br><br>* Advanced RAG architectures<br>* LLM evaluation<br>* Information retrieval<br>* Deep learning<br>* Recommendation systems<br>* Time-series modeling<br>* Production ML systems<br>* AI/ML engineering<br><br>---<br><br># Open Source & Collaboration<br><br>I'm interested in collaborating on projects involving:<br><br>* Machine Learning<br>* Deep Learning<br>* RAG & LLM Applications<br>* Information Retrieval<br>* Recommendation Systems<br>* AI/ML Engineering<br>* Backend Systems for AI<br><br>If you're working on interesting problems in these areas, feel free to connect.<br><br>---<br><br><p align="center"><br><b>Thanks for visiting! 🚀</b><br></p><br>
+<h1 align="center">Hi, I'm Kamalesh Pantra 👋</h1>
 
+<p align="center">
+<b>Integrated M.Sc. Data Science Student</b> @ PSG College of Technology (Graduating 2027)
+<br>
+Building enterprise AI systems using <b>LLMs</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Knowledge Graphs</b>, and scalable backend engineering.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamalesh-pantra-4544a5255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kamaleshlmv@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kamaleshpantra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kamaleshpantra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kamaleshpantra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<a href="mailto:kamaleshlmv@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/kamalesh-pantra-4544a5255/">LinkedIn</a> •
+<a href="https://github.com/kamaleshpantra">GitHub</a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kamaleshpantra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I enjoy building AI systems that solve real engineering problems—not just machine learning models.
+
+My interests lie at the intersection of
+
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs & GraphRAG
+- Enterprise AI
+- AI Agents
+- Information Retrieval
+- Backend Engineering
+
+Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, where I automated software validation workflows for IV Pump systems following IEC 62304 medical software practices.
+
+I'm currently researching intelligent enterprise knowledge retrieval using **GraphRAG**, hybrid retrieval techniques, and knowledge graphs.
+
+---
+
+# Current Focus
+
+- Enterprise Knowledge Management
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG
+- Knowledge Graphs
+- Semantic Search
+- AI Agents
+- Production AI Systems
+- LLM Evaluation
+- Backend Systems for AI
+
+---
+
+# Featured Projects
+
+## 🧠 Enterprise Knowledge Platform *(Current)*
+
+Building an enterprise knowledge system that transforms organizational knowledge into an AI-ready graph for intelligent retrieval.
+
+**Highlights**
+
+- GraphRAG architecture
+- Knowledge Graph construction
+- Hybrid retrieval
+- Semantic search
+- Metadata-aware retrieval
+- Enterprise document understanding
+
+**Tech**
+
+`Python` `Neo4j` `LangChain` `OpenAI` `FastAPI`
+`FAISS` `Docker`
+
+---
+
+## 📈 StockPulse
+
+Predicting stock movement by combining financial time-series data with Reddit sentiment.
+
+**Highlights**
+
+- LSTM forecasting
+- Multi-source data fusion
+- Financial feature engineering
+- Time-series prediction
+- NLP-based sentiment analysis
+
+**Tech**
+
+`Python`
+`PyTorch`
+`LSTM`
+`Pandas`
+`Scikit-learn`
+
+---
+
+## 🌐 StrangeStreet
+
+Anonymous social platform with intelligent content ranking.
+
+**Highlights**
+
+- UCB1 Multi-Armed Bandit ranking
+- Semantic similarity using SBERT
+- Secure messaging
+- Backend-first architecture
+
+**Tech**
+
+`Python`
+`SBERT`
+`PostgreSQL`
+`FastAPI`
+
+---
+
+# Research
+
+## GraphRAG for Enterprise Knowledge Management *(Ongoing)*
+
+Exploring how Knowledge Graphs can improve Retrieval-Augmented Generation for enterprise-scale document retrieval.
+
+Current research areas include
+
+- GraphRAG
+- Hybrid Search
+- Metadata-aware Retrieval
+- Knowledge Graph Construction
+- Retrieval Evaluation
+- Agentic Retrieval Pipelines
+
+---
+
+# Experience
+
+## ICU Medical
+
+**R&D Embedded Software Intern**
+
+- Automated software validation workflows for IV Pump software.
+- Developed Python-based tools to improve testing efficiency.
+- Worked within IEC 62304 compliant medical software development processes.
+- Collaborated with firmware and software engineering teams.
+
+---
+
+## Previous Experience
+
+Worked on machine learning systems involving recommendation models and explainable AI using ensemble learning techniques.
+
+---
+
+# Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- C++
+
+### AI / LLM
+
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG
+- LangChain
+- Hugging Face Transformers
+- OpenAI API
+- Prompt Engineering
+- Embeddings
+- Semantic Search
+
+### Machine Learning
+
+- PyTorch
+- Scikit-learn
+- XGBoost
+- SHAP
+- LSTM
+
+### Databases
+
+- PostgreSQL
+- Neo4j
+- FAISS
+- ChromaDB
+
+### Backend
+
+- FastAPI
+- Flask
+- REST APIs
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Linux
+
+---
+
+# What I'm Learning
+
+I'm currently exploring
+
+- Agentic AI
+- Multi-Agent Systems
+- Knowledge Graph Reasoning
+- Enterprise Search
+- LLM Evaluation
+- Advanced Retrieval Systems
+- Production AI Infrastructure
+
+---
+
+# Open Source & Collaboration
+
+I'm interested in collaborating on projects related to
+
+- Enterprise AI
+- LLM Applications
+- Knowledge Graphs
+- GraphRAG
+- AI Infrastructure
+- Backend Engineering
+
+If you're working on similar problems, feel free to connect.
+
+---
+
+<p align="center">
+Thanks for visiting! 🚀
+</p>
