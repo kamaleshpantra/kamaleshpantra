@@ -1,50 +1,231 @@
-# Kamalesh Pantra
+<h1 align="center">Hi, I'm Kamalesh Pantra 👋</h1>
 
-Final-year Integrated M.Sc. Data Science student at PSG College of Technology, Coimbatore. I graduate in May 2027 and I'm looking for full-time ML / data science roles starting December 2026.
+<p align="center">
+<b>Integrated M.Sc. Data Science Student</b> @ PSG College of Technology (Graduating 2027)
+<br>
+Building enterprise AI systems using <b>LLMs</b>, <b>Retrieval-Augmented Generation (RAG)</b>, <b>Knowledge Graphs</b>, and scalable backend engineering.
+</p>
 
-Most of my work is around retrieval and recommendation. I care a lot about the evaluation side: ablations, significance tests, and checking that an improvement is real before I claim it.
+<p align="center">
+<a href="mailto:kamaleshlmv@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/kamalesh-pantra-4544a5255/">LinkedIn</a> •
+<a href="https://github.com/kamaleshpantra">GitHub</a>
+</p>
 
-## Working on now
+---
 
-- **Predict-Verify-Recommend**, a sequential recommendation paper (in progress, details below)
-- **StrangeStreet**, my final-year project
+# About Me
 
-## Projects
+I enjoy building AI systems that solve real engineering problems—not just machine learning models.
 
-**[Multihop RAG Evaluation](https://github.com/kamaleshpantra/Multihop-RAG-Evaluation)**
-Multi-hop question answering on HotpotQA. Retrieval runs FAISS dense search and BM25 side by side, merges the rankings with reciprocal rank fusion, then reranks with a cross-encoder. That gets Recall@10 to 79.32%. I added query expansion and evaluated generation end to end too: 44% exact match and 0.5065 F1, with both local (Ollama) and cloud LLMs.
-`FAISS` `BM25` `Sentence Transformers` `RRF` `Ollama` `Streamlit`
+My interests lie at the intersection of
 
-**Predict-Verify-Recommend** (research, ongoing)
-A verification-aware framework for sequential recommendation. An MLP transition model and a learned safety verifier sit on top of a SASRec backbone and filter out anomalous user states before recommending. My SASRec reproduction on MovieLens-1M landed within 1% of the published numbers (HR@10 0.8168 vs 0.8245). The verifier flagged 37% of candidates as anomalous, and bootstrap significance tests showed no accuracy loss.
-`SASRec` `MovieLens-1M`
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Graphs & GraphRAG
+- Enterprise AI
+- AI Agents
+- Information Retrieval
+- Backend Engineering
 
-**[StockPulse](https://github.com/kamaleshpantra/StockPulse)**
-Short-term stock trend prediction. An LSTM over historical prices and rolling market features, combined with sentiment scored from Reddit posts (PRAW + VADER). Comes with a Streamlit dashboard and a Docker setup.
-`PyTorch` `LSTM` `VADER` `PRAW` `Streamlit` `Docker`
+Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, where I automated software validation workflows for IV Pump systems following IEC 62304 medical software practices.
 
-**[StrangeStreet](https://github.com/kamaleshpantra/strangestreet)**
-An anonymous social platform, built backend-first. The feed is ranked with a UCB1 multi-armed bandit, SBERT embeddings handle semantic similarity, and there's secure messaging on top of FastAPI and PostgreSQL.
-`FastAPI` `PostgreSQL` `SBERT` `UCB1`
+I'm currently researching intelligent enterprise knowledge retrieval using **GraphRAG**, hybrid retrieval techniques, and knowledge graphs.
 
-**Health Insurance Premium Prediction**
-Smaller one: an end-to-end regression pipeline, XGBoost tuned with RandomizedSearchCV (R² 0.9938), served through a Streamlit app.
+---
 
-## Internships
+# Current Focus
 
-**ICU Medical**, R&D Embedded Software Intern (Jun to Nov 2025, Chennai)
-Validation work on IV pump software under IEC 62304. I wrote Python/pandas scripts that went through 5,000+ pytest logs and grouped recurring failures, which cut manual triage by about 60%. I also wrote pytest suites for safety-critical modules and put validation evidence into structured reports for audits.
+- Enterprise Knowledge Management
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG
+- Knowledge Graphs
+- Semantic Search
+- AI Agents
+- Production AI Systems
+- LLM Evaluation
+- Backend Systems for AI
 
-**Learner Circle**, Tech Intern (May to Jun 2024, Chennai)
-Built an interpretable classifier (Random Forest, XGBoost, SHAP) on 500+ student records. Error analysis and ablations brought misclassification down 23%.
+---
 
-## Stack
+# Featured Projects
 
-**Languages:** Python, SQL, C++
-**ML / GenAI:** PyTorch, scikit-learn, XGBoost, Hugging Face, LangChain, PySpark
-**Data / retrieval:** FAISS, PostgreSQL
-**Everything else:** FastAPI, Streamlit, Docker, Git
+## 🧠 Enterprise Knowledge Platform *(Current)*
 
-## Contact
+Building an enterprise knowledge system that transforms organizational knowledge into an AI-ready graph for intelligent retrieval.
 
-kamaleshlmv@gmail.com · [LinkedIn](https://www.linkedin.com/in/kamalesh-pantra-4544a5255/)
+**Highlights**
+
+- GraphRAG architecture
+- Knowledge Graph construction
+- Hybrid retrieval
+- Semantic search
+- Metadata-aware retrieval
+- Enterprise document understanding
+
+**Tech**
+
+`Python` `Neo4j` `LangChain` `OpenAI` `FastAPI`
+`FAISS` `Docker`
+
+---
+
+## 📈 StockPulse
+
+Predicting stock movement by combining financial time-series data with Reddit sentiment.
+
+**Highlights**
+
+- LSTM forecasting
+- Multi-source data fusion
+- Financial feature engineering
+- Time-series prediction
+- NLP-based sentiment analysis
+
+**Tech**
+
+`Python`
+`PyTorch`
+`LSTM`
+`Pandas`
+`Scikit-learn`
+
+---
+
+## 🌐 StrangeStreet
+
+Anonymous social platform with intelligent content ranking.
+
+**Highlights**
+
+- UCB1 Multi-Armed Bandit ranking
+- Semantic similarity using SBERT
+- Secure messaging
+- Backend-first architecture
+
+**Tech**
+
+`Python`
+`SBERT`
+`PostgreSQL`
+`FastAPI`
+
+---
+
+# Research
+
+## GraphRAG for Enterprise Knowledge Management *(Ongoing)*
+
+Exploring how Knowledge Graphs can improve Retrieval-Augmented Generation for enterprise-scale document retrieval.
+
+Current research areas include
+
+- GraphRAG
+- Hybrid Search
+- Metadata-aware Retrieval
+- Knowledge Graph Construction
+- Retrieval Evaluation
+- Agentic Retrieval Pipelines
+
+---
+
+# Experience
+
+## ICU Medical
+
+**R&D Embedded Software Intern**
+
+- Automated software validation workflows for IV Pump software.
+- Developed Python-based tools to improve testing efficiency.
+- Worked within IEC 62304 compliant medical software development processes.
+- Collaborated with firmware and software engineering teams.
+
+---
+
+## Previous Experience
+
+Worked on machine learning systems involving recommendation models and explainable AI using ensemble learning techniques.
+
+---
+
+# Technical Skills
+
+### Languages
+
+- Python
+- SQL
+- C++
+
+### AI / LLM
+
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG
+- LangChain
+- Hugging Face Transformers
+- OpenAI API
+- Prompt Engineering
+- Embeddings
+- Semantic Search
+
+### Machine Learning
+
+- PyTorch
+- Scikit-learn
+- XGBoost
+- SHAP
+- LSTM
+
+### Databases
+
+- PostgreSQL
+- Neo4j
+- FAISS
+- ChromaDB
+
+### Backend
+
+- FastAPI
+- Flask
+- REST APIs
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Linux
+
+---
+
+# What I'm Learning
+
+I'm currently exploring
+
+- Agentic AI
+- Multi-Agent Systems
+- Knowledge Graph Reasoning
+- Enterprise Search
+- LLM Evaluation
+- Advanced Retrieval Systems
+- Production AI Infrastructure
+
+---
+
+# Open Source & Collaboration
+
+I'm interested in collaborating on projects related to
+
+- Enterprise AI
+- LLM Applications
+- Knowledge Graphs
+- GraphRAG
+- AI Infrastructure
+- Backend Engineering
+
+If you're working on similar problems, feel free to connect.
+
+---
+
+<p align="center">
+Thanks for visiting! 🚀
+</p>
