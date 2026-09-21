@@ -1,222 +1,125 @@
 <h1 align="center">Hi, I'm Kamalesh Pantra 👋</h1>
 
 <p align="center">
-<b>Integrated M.Sc. Data Science Student</b> @ PSG College of Technology (Graduating 2027)
+<b>AI/ML Engineer in the making</b> • Integrated M.Sc. Data Science @ PSG College of Technology
 <br>
-AI/ML enthusiast building machine learning, deep learning, RAG, and data-driven systems.
+Machine Learning • Deep Learning • RAG • Time Series • Recommendation Systems
 </p>
 
 <p align="center">
-<a href="mailto:kamaleshlmv@gmail.com">Email</a> •
-<a href="https://www.linkedin.com/in/kamalesh-pantra-4544a5255/">LinkedIn</a> •
-<a href="https://github.com/kamaleshpantra">GitHub</a>
+<a href="mailto:kamaleshlmv@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/kamalesh-pantra-4544a5255/">💼 LinkedIn</a> •
+<a href="https://github.com/kamaleshpantra">💻 GitHub</a>
 </p>
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-I'm an Integrated M.Sc. Data Science student at **PSG College of Technology**, interested in building practical AI/ML systems and solving real-world engineering problems.
+I'm an Integrated M.Sc. Data Science student at **PSG College of Technology**, graduating in 2027.
 
-My interests span:
+I build practical **AI/ML systems** across machine learning, deep learning, information retrieval, time-series forecasting, and recommendation systems.
 
-* Machine Learning
-* Deep Learning
-* Retrieval-Augmented Generation (RAG)
-* Natural Language Processing
-* Information Retrieval
-* Time Series Forecasting
-* Recommendation Systems
-* AI/ML Engineering
-
-Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, where I developed Python-based automation and validation tools for safety-critical medical software and analyzed 5,000+ diagnostic logs, reducing manual triage effort by 60%.
+Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, building Python-based automation and validation workflows for safety-critical medical software.
 
 ---
 
-# Current Focus
+## 🛠️ Tech Stack
 
-* Machine Learning & Deep Learning
-* Retrieval-Augmented Generation (RAG)
-* Information Retrieval
-* LLM Evaluation
-* Time Series Forecasting
-* Recommendation Systems
-* AI/ML Engineering
-* Model Evaluation & Experimentation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,postgres,pytorch,tensorflow,sklearn,huggingface,git,github,docker,fastapi,streamlit" />
+</p>
 
----
-
-# Featured Projects
-
-## 🔎 Multihop RAG Evaluation
-
-A hybrid multi-hop Retrieval-Augmented Generation pipeline evaluated on the **HotpotQA** dataset.
-
-**Highlights**
-
-* Hybrid retrieval using dense and lexical search
-* FAISS dense retrieval
-* BM25 lexical retrieval
-* Reciprocal Rank Fusion (RRF)
-* Cross-encoder reranking
-* Query expansion and retrieval evaluation
-* Local and cloud-based LLM inference
-
-Achieved **79.32% Recall@10**, **44% Exact Match**, and **0.5065 F1** in the evaluation pipeline.
-
-**Tech**
-
-`Python` `FAISS` `BM25` `Sentence Transformers`
-`Cross-Encoder` `RRF` `Ollama` `RAG` `Streamlit`
+<p align="center">
+  <b>Languages:</b> Python • SQL • C++
+  <br>
+  <b>ML:</b> Scikit-learn • XGBoost • NumPy • Pandas • PySpark
+  <br>
+  <b>AI/GenAI:</b> PyTorch • Hugging Face • RAG • LangChain
+  <br>
+  <b>IR:</b> FAISS • BM25 • Sentence Transformers • Cross-Encoder
+  <br>
+  <b>Backend:</b> FastAPI • PostgreSQL • Streamlit • Docker
+</p>
 
 ---
 
-## 📈 StockPulse
+## 🚀 Featured Projects
 
-A multimodal stock forecasting system combining historical market data with Reddit sentiment.
+### 🔎 Multihop RAG Evaluation
 
-**Highlights**
+Hybrid multi-hop **Retrieval-Augmented Generation** pipeline evaluated on HotpotQA.
 
-* LSTM-based time-series forecasting
-* Sequential feature engineering
-* Historical stock-price analysis
-* Reddit sentiment analysis using VADER
-* Financial data and social-media signal fusion
-* Interactive model visualization and inference
+* Combined **FAISS + BM25** retrieval using **RRF fusion** and cross-encoder reranking.
+* Achieved **79.32% Recall@10**, **44% Exact Match**, and **0.5065 F1**.
 
-**Tech**
-
-`Python` `TensorFlow` `LSTM` `Pandas`
-`VADER` `PRAW` `Streamlit` `Docker`
+`Python` `FAISS` `BM25` `Sentence Transformers` `RRF` `Ollama` `Streamlit`
 
 ---
 
-## 🏥 Health Insurance Premium Prediction
+### 📈 StockPulse
 
-An end-to-end machine learning system for predicting health insurance premiums.
+Multimodal stock forecasting system combining financial time-series data with Reddit sentiment.
 
-**Highlights**
+* Built an **LSTM-based forecasting pipeline** with sequential feature engineering and historical market data.
+* Combined market signals with **VADER sentiment analysis** from Reddit and deployed an interactive Streamlit application.
 
-* Feature engineering and preprocessing
-* Cross-validation
-* Hyperparameter optimization using RandomizedSearchCV
-* XGBoost regression
-* Real-time prediction through Streamlit
-
-Achieved an **R² score of 0.9938** using the optimized XGBoost model.
-
-**Tech**
-
-`Python` `Pandas` `Scikit-learn`
-`XGBoost` `RandomizedSearchCV` `Streamlit`
+`Python` `TensorFlow` `LSTM` `Pandas` `VADER` `PRAW` `Streamlit` `Docker`
 
 ---
 
-# Research
+### 🏥 Health Insurance Premium Prediction
 
-## Predict, Verify, Recommend
+End-to-end machine learning system for health insurance premium estimation.
 
-**A Verification-Aware Sequential Recommendation Framework**
+* Built a regression pipeline covering preprocessing, feature engineering, cross-validation, and hyperparameter optimization.
+* Achieved **R² = 0.9938** using an optimized **XGBoost** model and deployed it with Streamlit.
 
-Currently researching a verification-aware recommendation architecture that combines a **SASRec backbone, learned safety verifier, and MLP transition model** to identify anomalous latent user states before recommendation.
-
-**Research Highlights**
-
-* Reproduced SASRec benchmarks on MovieLens-1M within 1%
-* HR@10: **0.8168** vs. **0.8245** benchmark
-* Bootstrap significance testing
-* Zero observed accuracy loss while flagging **37% of candidates** as anomalous
+`Python` `Pandas` `Scikit-learn` `XGBoost` `RandomizedSearchCV` `Streamlit`
 
 ---
 
-# Experience
+## 🔬 Research
 
-## ICU Medical
+### Predict, Verify, Recommend
 
-**R&D Embedded Software Intern**
-June 2025 – November 2025
+**Verification-Aware Sequential Recommendation**
 
-* Developed Python/Pandas scripts to analyze **5,000+ pytest diagnostic logs**, identifying recurring test-failure patterns and reducing manual triage effort by **60%**.
-* Developed automated Python/pytest validation suites for safety-critical software modules.
-* Maintained audit-ready **IEC 62304** compliance documentation and structured validation reports.
-* Collaborated with engineering teams on software validation and quality processes.
+Developing a recommendation framework that combines a **SASRec backbone, safety verifier, and MLP transition model** to identify anomalous latent user states before recommendation.
 
----
-
-## Learner Circle
-
-**Tech Intern**
-May 2024 – June 2024
-
-* Performed exploratory data analysis and statistical modeling on **500+ student records**.
-* Developed an interpretable ML pipeline using **Random Forest, XGBoost, and SHAP**.
-* Reduced misclassification by **23%** through model evaluation, ablation studies, and error analysis.
+* Reproduced SASRec on MovieLens-1M within **1%** of the benchmark.
+* Achieved **HR@10 = 0.8168** and identified **37% of candidates as anomalous** with zero observed accuracy loss.
 
 ---
 
-# Technical Skills
+## 💼 Experience
 
-### Programming
+### ICU Medical
 
-`Python` `SQL` `C++`
+**R&D Embedded Software Intern** · Jun 2025 – Nov 2025
 
-### Machine Learning
+* Analyzed **5,000+ pytest diagnostic logs** using Python/Pandas and reduced manual failure-triage effort by **60%**.
+* Built automated Python/pytest validation workflows for safety-critical software modules.
+* Maintained structured validation evidence supporting **IEC 62304** compliance processes.
 
-`Scikit-learn` `XGBoost` `NumPy` `Pandas` `PySpark` `Statistics`
+### Learner Circle
 
-### Deep Learning & GenAI
+**Tech Intern** · May 2024 – Jun 2024
 
-`PyTorch` `Hugging Face` `LangChain` `RAG`
-
-### NLP & Information Retrieval
-
-`Sentence Transformers` `BM25` `FAISS` `Cross-Encoder` `Embeddings`
-
-### Time Series
-
-`LSTM` `Time Series Forecasting` `Sequential Modeling`
-
-### Backend & Deployment
-
-`FastAPI` `Streamlit` `Docker` `PostgreSQL`
-
-### Developer Tools
-
-`Git` `GitHub`
+* Performed EDA and statistical analysis on **500+ student records**.
+* Built interpretable ML models using **Random Forest, XGBoost, and SHAP**.
+* Reduced misclassification by **23%** through model evaluation and ablation studies.
 
 ---
 
-# What I'm Learning
+## 🎯 Areas of Interest
 
-Currently exploring:
-
-* Advanced RAG architectures
-* LLM evaluation
-* Information retrieval
-* Deep learning
-* Recommendation systems
-* Time-series modeling
-* Production ML systems
-* AI/ML engineering
-
----
-
-# Open Source & Collaboration
-
-I'm interested in collaborating on projects involving:
-
-* Machine Learning
-* Deep Learning
-* RAG & LLM Applications
-* Information Retrieval
-* Recommendation Systems
-* AI/ML Engineering
-* Backend Systems for AI
-
-If you're working on interesting problems in these areas, feel free to connect.
+`Machine Learning` `Deep Learning` `RAG` `LLMs`
+`Information Retrieval` `Time Series`
+`Recommendation Systems` `AI/ML Engineering`
 
 ---
 
 <p align="center">
-<b>Thanks for visiting! 🚀</b>
+<b>Building, experimenting, and learning at the intersection of ML and software engineering.</b>
 </p>
