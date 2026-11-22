@@ -3,7 +3,7 @@
 <p align="center">
 <b>AI/ML Engineer in the making</b> • Integrated M.Sc. Data Science @ PSG College of Technology
 <br>
-Machine Learning • Deep Learning • RAG • Time Series • Recommendation Systems
+Machine Learning • Deep Learning • RAG • Recommendation Systems
 </p>
 
 <p align="center">
