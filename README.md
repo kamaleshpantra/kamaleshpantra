@@ -18,7 +18,7 @@ Machine Learning • Deep Learning • RAG • Recommendation Systems
 
 I'm an Integrated M.Sc. Data Science student at **PSG College of Technology**, graduating in 2027.
 
-I build practical **AI/ML systems** across machine learning, deep learning, information retrieval, time-series forecasting, and recommendation systems.
+I build practical **AI/ML systems** across machine learning, deep learning, information retrieval, and recommendation systems.
 
 Previously, I worked as an **R&D Embedded Software Intern at ICU Medical**, building Python-based automation and validation workflows for safety-critical medical software.
 
